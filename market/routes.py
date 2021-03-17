@@ -1,0 +1,24 @@
+from market import app
+from flask import render_template
+from market.models import Item 
+@app.route('/')
+@app.route('/home')
+def home_page():
+    return render_template('home.htm')
+
+#@app.route('/about/<username>')
+#def about_page(username):
+#    return f'<h1>This is the about page of {username}</h1>'
+
+
+@app.route('/market')
+def market_page():
+    """
+    items = [
+    {'id': 1, 'name': 'Phone', 'barcode': '893212299897', 'price': 500},
+    {'id': 2, 'name': 'Laptop', 'barcode': '123985473165', 'price': 900},
+    {'id': 3, 'name': 'Keyboard', 'barcode': '231985128446', 'price': 150}]
+    """
+    items=Item.query.all()
+    return render_template('market.htm',items=items)
+
