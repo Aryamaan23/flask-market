@@ -13,6 +13,9 @@
 ### User dashboard
 ![image](https://user-images.githubusercontent.com/60667917/111748372-77301f80-88b6-11eb-882f-38c4a789f33d.png)
 
+### Option for buying and selling
+![image](https://user-images.githubusercontent.com/60667917/111748510-a34ba080-88b6-11eb-8e73-b8fefe15e631.png)
+
 
 
 
