@@ -16,6 +16,9 @@
 ### Option for buying and selling
 ![image](https://user-images.githubusercontent.com/60667917/111748510-a34ba080-88b6-11eb-8e73-b8fefe15e631.png)
 
+### Registration Page
+![image](https://user-images.githubusercontent.com/60667917/111748649-cc6c3100-88b6-11eb-8c3a-10718e3700ad.png)
+
 
 
 
