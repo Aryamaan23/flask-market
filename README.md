@@ -1,6 +1,9 @@
 # Market for Everyone
 
 ## Switch to final branch to see the full code..
+### You can also look other branches to see the work flow
+
+### To run the project clone this repository, change the control to the downloaded folder with cd command and then just simply type python run.py on terminal and you are good to go.
 
 ## Screenshots
 
